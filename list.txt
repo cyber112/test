@@ -1,0 +1,15 @@
+total 64
+drwxr-xr-x 3 root root  4096 Jan  1 09:33 A1
+drwxr-xr-x 2 root root  4096 Jan  9 20:15 Desktop
+drwxr-xr-x 2 root root  4096 Dec 31 08:49 Documents
+drwxr-xr-x 2 root root  4096 Jan 19 19:47 Downloads
+drwxr-xr-x 3 root root  4096 Jan 19 20:44 Github
+drwxr-xr-x 2 root root  4096 Dec 31 08:49 Music
+drwxr-xr-x 3 root root  4096 Dec 31 19:44 Notebooks
+drwxr-xr-x 2 root root  4096 Dec 31 20:59 Pictures
+drwxr-xr-x 2 root root  4096 Dec 31 08:49 Public
+drwxrwxrwx 1 root root 12288 Jan  2 11:37 sda3
+-rw-r--r-- 1 root root   304 Dec 31 09:01 sources.list.bak
+drwxr-xr-x 2 root root  4096 Dec 31 08:49 Templates
+drwxr-xr-x 2 root root  4096 Dec 31 08:49 Videos
+drwxr-xr-x 2 root root  4096 Jan  9 20:35 wireshark-temp
